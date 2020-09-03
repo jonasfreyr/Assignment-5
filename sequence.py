@@ -3,6 +3,8 @@
 
     geri lista til að halda utan um þrjár seinustu tölur
 
+    prenti út initialized tölurnar til að byrjar með
+
     geri for lykkju sem keyrir eins oft og inputtið
         plúsa tölurnar í listanum til að fá núverandi tölu
         prenti út töluna
